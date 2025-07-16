@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My name is Ipam and I'm a student from Telkom University👋
 
 <!--
 **elspam/elspam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
