@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFodzVmMzloNmdwb2VjaXpvdThudGVzcGZ1eGp1Z3dxYm41a3FweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aAFyqRDUDCS1rWUFnm/giphy.gif"
        alt="Konnichiwa!"
-       width="700"
+       width="400"
        height='100%' />
 </div>
 
