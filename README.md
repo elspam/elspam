@@ -19,6 +19,9 @@ I'm a student who loves learning web development and cyber security
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![gpt](    https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 📈 Stats
+![Elspam's stats](https://github-readme-stats.vercel.app/api?username=elspam&show_icons=true&theme=gruvbox)
 <!--
 **elspam/elspam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
