@@ -1,3 +1,8 @@
+
+![Konnichiwa!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFodzVmMzloNmdwb2VjaXpvdThudGVzcGZ1eGp1Z3dxYm41a3FweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aAFyqRDUDCS1rWUFnm/giphy.gif)
+
+
+
 ## Hi, My name is Ipam and I'm a student from Telkom University👋
 
 <!--
